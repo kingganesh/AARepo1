@@ -1,0 +1,4 @@
+workflow hellowGetDate
+{
+	get-date
+}
