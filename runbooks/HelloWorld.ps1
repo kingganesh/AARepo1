@@ -1,6 +1,6 @@
-﻿workflow HelloWorld
+﻿workflow helloworld
 {
-    Get-Date
+	get-date
     Write-Progress "Hello World Progress"
     Write-Output "Hello World Output"
     Write-Warning "Hello World Warning"
