@@ -1,3 +1,3 @@
-getdate
+get-date
 sleep -s 300
-getdate
+get-date
