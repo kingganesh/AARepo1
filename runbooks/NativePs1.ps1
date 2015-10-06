@@ -1,2 +1,2 @@
 write-output "hello native ps1"
-get-date 
+get-date
